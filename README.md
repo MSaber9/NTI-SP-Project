@@ -1,8 +1,8 @@
 # NTI SP-Project
 
-# Stock Price Project
+### Stock Price Project
 
-# Members:
+### Members:
 
 1- Amir Mohamed
 
